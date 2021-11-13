@@ -16,7 +16,7 @@ $(document).ready(function() {
 
     function checkInput(e) {
         var inputText = e.target.value;
-        if (inputText.toLowerCase() == "Ava")  {
+        if (inputText.toLowerCase() == "ava")  {
             location.href = "ava.html";
         } 
         else if (inputText.toLowerCase() == "ava fridd") {
