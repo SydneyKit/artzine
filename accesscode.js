@@ -19,23 +19,23 @@ $(document).ready(function() {
         if (inputText.toLowerCase() == "Ava")  {
             location.href = "ava.html";
         } 
-        else if (inputText.toLowerCase() == "Ava Fridd") {
+        else if (inputText.toLowerCase() == "ava fridd") {
             location.href = "ava.html";} 
-        else if (inputText.toLowerCase() == "Cynthia") {
+        else if (inputText.toLowerCase() == "cynthia") {
             location.href = "cynthia.html";} 
-        else if (inputText.toLowerCase() == "Cynthia Groves") {
+        else if (inputText.toLowerCase() == "cynthia groves") {
         location.href = "cynthia.html";} 
-        else if (inputText.toLowerCase() == "Wind") {
+        else if (inputText.toLowerCase() == "wind") {
             location.href = "wind.html";} 
-        else if (inputText.toLowerCase() == "Qifeng") {
+        else if (inputText.toLowerCase() == "qifeng") {
             location.href = "wind.html";} 
-        else if (inputText.toLowerCase() == "Qifeng Du") {
+        else if (inputText.toLowerCase() == "qifeng du") {
         location.href = "wind.html";} 
-        else if (inputText.toLowerCase() == "Wind Du") {
+        else if (inputText.toLowerCase() == "wind du") {
             location.href = "wind.html";} 
-        else if (inputText.toLowerCase() == "Sydney") {
+        else if (inputText.toLowerCase() == "sydney") {
             location.href = "sydney.html";} 
-        else if (inputText.toLowerCase() == "Sydney Kit") {
+        else if (inputText.toLowerCase() == "sydney kit") {
         location.href = "Sydney.html";} 
     }
 });

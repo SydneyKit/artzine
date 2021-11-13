@@ -1,0 +1,9 @@
+p{
+    font-size: 35pt;
+    color: black;
+    text-shadow: 2px 2px  rgb(245, 255, 151);
+}
+@font-face {
+    font-family: Myriad Pro;
+    src: url(myriad-pro-cufonfonts/MYRIADPRO-REGULAR.OTF);
+ }
