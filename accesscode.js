@@ -36,6 +36,6 @@ $(document).ready(function() {
         else if (inputText.toLowerCase() == "sydney") {
             location.href = "sydney.html";} 
         else if (inputText.toLowerCase() == "sydney kit") {
-        location.href = "Sydney.html";} 
+        location.href = "sydney.html";} 
     }
 });
